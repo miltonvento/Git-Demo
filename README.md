@@ -1,4 +1,4 @@
 # Git-Demo
 
 This is a git demo
-Created logo element
+Finished creating the header
